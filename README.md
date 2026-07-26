@@ -119,21 +119,8 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneebniaz111&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebniaz111&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneebniaz111&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muneebniaz111&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneebniaz111&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebniaz111&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Muneebniaz111&theme=github-dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Muneebniaz111&theme=darkhub&no-frame=true&row=1&column=6" /> </p>
 ---
 
 ### 🎯 Currently Focused On
