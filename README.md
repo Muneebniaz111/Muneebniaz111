@@ -114,7 +114,6 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 | **[AutoShot AI Car Imaging](https://github.com/Muneebniaz111/CarDealerAPI-.Net)** | AI pipeline for dealership photos — chains background removal, Stable Diffusion scene generation, and server-side compositing into one API | C#, ASP.NET Core, ImageSharp |
 | **[Eye Disease Classification](https://github.com/Muneebniaz111/Eye-Disease-Classification)** | CNN-based medical image classifier for eye disease detection, served through a Flask REST API | Python, TensorFlow, Keras, Flask |
 | **[Career Counseling & Guide Portal](https://github.com/Muneebniaz111/career-counseling-portal)** | Full-stack platform connecting students with career guidance — counseling requests, resource library, admin dashboard | PHP, MySQL |
-| **[AGAREO Real Estate Platform](https://github.com/Muneebniaz111/Test-Next.js-)** | Property discovery platform for the UAE market, built with the Next.js App Router and TypeScript | Next.js, React, TypeScript, Tailwind |
 
 **Live portfolio:** [muneeb-dev.vercel.app](https://muneeb-dev.vercel.app) · **Resume:** available on request / linked on portfolio
 
