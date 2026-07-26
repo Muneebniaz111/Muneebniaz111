@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=150&section=header&animation=fadeIn"/>
+
 <!-- Animated typing headline -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muneeb+Niaz;Backend-Focused+Full+Stack+Developer;ASP.NET+Core+%7C+Laravel+%7C+Django;Building+AI-Integrated+Web+Systems" alt="Typing SVG" />
@@ -15,7 +17,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 ### 👋 About Me
 
@@ -29,7 +31,7 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 - 🌱 Currently deepening: system design fundamentals, AI/backend integration patterns, application security
 - 💬 Ask me about: ASP.NET Core, Laravel/PHP, Flask/FastAPI, REST API design, or CNN-based image classification
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 ### 🧰 Tech Stack
 
@@ -104,7 +106,7 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 ### 🚀 Featured Projects
 
@@ -117,11 +119,12 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 
 **Live portfolio:** [muneeb-dev.vercel.app](https://muneeb-dev.vercel.app) · **Resume:** available on request / linked on portfolio
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muneebniaz111&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneebniaz111&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Muneebniaz111&theme=github-dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Muneebniaz111&theme=darkhub&no-frame=true&row=1&column=6" /> </p>
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 ### 🎯 Currently Focused On
 
@@ -130,7 +133,7 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 - Building out a bug bounty / application security track (Burp Suite, OWASP Top 10)
 - Freelance delivery on Upwork and Fiverr
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=20&section=header&animation=fadeIn"/>
 
 ### 📫 Let's Connect
 
@@ -142,6 +145,8 @@ I'm a Software Engineering graduate from **Bahria University**, focused on backe
 
 <div align="center">
 <sub>Thanks for stopping by — feedback and collab requests always welcome.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2F81F7,100:0D1117&height=150&section=footer&animation=fadeIn"/>
 </div>
 
 <!--
